@@ -1,6 +1,6 @@
 # Experiment No 4: ListView and Card Layout
 
-To develop a card layout for our Flutter application 
+To develop a card layout for our Flutter application.
 
 ## About Experiment
 
